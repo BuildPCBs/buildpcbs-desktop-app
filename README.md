@@ -30,3 +30,23 @@ Marketplace: Publish your designs to a closed network and earn rewards.
 
 🌐 The Network
 Everything is tracked on-chain. From ownership and version history to manufacturing logs, the Web3 layer ensures that every piece of hardware is authentic, traceable, and secure.
+
+## 📜 License
+
+This project is licensed under the **Elastic License 2.0**.
+
+**What this means:**
+
+- ✅ **Source is available** for transparency, security audits, and educational purposes
+- ✅ You can view, modify, and use the code for personal/non-commercial purposes
+- ❌ You **cannot** offer this software as a hosted/managed service
+- ❌ You **cannot** redistribute commercially or create competing products
+
+**Why this license?**
+We believe in transparency and want the community to audit our code for security and quality. However, we need to protect our commercial interests as we build this into a sustainable business.
+
+See the full [LICENSE](./LICENSE) file for details.
+
+---
+
+**Copyright © 2026 BuildPCBs Project**
